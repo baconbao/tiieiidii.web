@@ -1,0 +1,108 @@
+      body{
+        
+      }
+    	#sitetitle{
+        padding-top: 50px;
+        background: #FF2A06;
+        font-family:'Raleway', Arial;
+    		font-size: 50px;
+    		text-align: center;
+    		color: #FFF;
+        padding-bottom: 10px;
+        font-weight: 900;
+        text-shadow: 2px 2px 1px rgba(150, 150, 150, 0.6);
+    	}
+      #sitetitle h5{
+        font-family: 'Open Sans', Arial;
+        text-shadow: 2px 2px 1px rgba(150, 150, 150, 0.3);
+      }
+    	.box{
+    		width: 80%;
+    		margin: 0 auto;
+    		border-bottom: 2px solid #CCCCCC;
+    		padding-top: 25px;
+    		padding-bottom: 25px;
+    	}
+    	.row input{
+        font-family: 'Open Sans', Arial;
+        border-color: #FF2A06;
+        font-weight: bold;
+    	}
+    	.row button{
+        font-family: 'Open Sans', Arial;
+    		background: #FF2A06;
+        opacity: 0.9;
+    	}
+      .row button:hover{
+        background: #FF2A06;
+        opacity: 1;
+      }
+      .row button:focus{
+        background: #FF2A06;
+      }
+      #usersub{
+        width:100%;
+      }
+      #userresult{
+        font-family: 'Open Sans', Arial;
+        text-align: center;
+      }
+      #foottxt{
+        padding-top: 30px;
+        text-align: center;
+        color: #777;
+      }
+      #useremail::-webkit-input-placeholder {
+        color: #FF2A06;
+        font-weight: bold;
+      }
+      #useremail::-moz-placeholder {
+        color: #FF2A06;
+        font-weight: bold;
+      }
+      #useremail:-ms-input-placeholder {
+        color: #FF2A06;
+        font-weight: bold;
+      }​
+      #homelist a,img{
+        width: 120px;
+        height: 90px;
+        border-radius: 3px 3px 3px 3px;
+        padding-right: 1px;
+        padding-left: 1px;
+        border-color: rgba(0, 0, 0, 0.2);
+        box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.15) inset;
+        opacity: 0.25;
+      }
+      #homelist a,img:hover{
+        opacity: 0.9;
+      }
+      #homelist{
+        color: #AAAAAA;
+        padding-top: 25px;
+        text-align: center;
+      }
+      #network{
+        color: red; 
+        font-size: 12px;
+        float: right;
+        margin-top: -55px;
+      }
+      #network-foot{
+         color: red;
+         opacity: 0.6;       
+      }
+      #social a{
+        color:#FF2A06;
+        opacity: 0.8;
+      }
+      #social a:hover{
+        opacity: 1;
+        text-decoration: none;
+      }
+      .about-lang-btn{
+        cursor: pointer;
+      }
+      #about{
+        font-family: 'Microsoft JhengHei', 'Open Sans', Arial;
+      }
